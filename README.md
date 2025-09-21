@@ -8,6 +8,8 @@ This project presents an exploratory data analysis (EDA) of a **500,000-record s
 
 This EDA demonstrates the ability to clean messy real-world data, uncover meaningful insights, and translate analytical findings into actionable recommendations.
 
+👉 **View Interactive Dashboard:** [RPubs Link](https://rpubs.com/surajshrestha7494/1346885)
+
 ## Key Findings
 
 The analysis reveals three main themes:
